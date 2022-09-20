@@ -3,7 +3,7 @@
 
         <a href="index.html" class="logo d-flex align-items-center">
             <img src="assets/assets/img/logo.png" alt="">
-            <h1>ThreePuteraBantenIndonesia<span>.</span></h1>
+            {{-- <h1>ThreePuteraBantenIndonesia<span>.</span></h1> --}}
         </a>
 
         <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>

@@ -7,11 +7,12 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2 data-aos="fade-down">Welcome to <span>UpConstruction</span></h2>
-                        <p data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get
+                        <h2 data-aos="fade-down"><span>Three Putera Banten Indonesia</span></h2>
+                        <p data-aos="fade-up">Jasa industri untuk
+                            pelapisan, pemolesan, pewarnaan, pengukiran,
+                            pengerasan, pengkilapan, pengelasan, pemotongan dan
+                            berbagai pekerjaan khusus terhadap logam atau barangbarang dari logam.</p>
+                        <a data-aos="fade-up" data-aos-delay="200" href="#constructions" class="btn-get-started">Get
                             Started</a>
                     </div>
                 </div>
@@ -47,72 +48,17 @@
 
     <main id="main">
 
-
-        <section id="get-started" class="get-started section-bg">
-            <div class="container">
-
-                <div class="row justify-content-between gy-4">
-
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
-                        <div class="content">
-                            <h3>Minus hic non reiciendis ea possimus at quia.</h3>
-                            <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa.
-                                Eos ipsum nobis ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat
-                                totam nisi possimus ut delectus dicta.
-                            <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa
-                                eos. Deserunt porro magni qui necessitatibus dolorem at animi cupiditate.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-5" data-aos="fade">
-                        <form action="forms/quote.php" method="post" class="php-email-form">
-                            <h3>Get a quote</h3>
-                            <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus
-                                enim linead sero park flows.</p>
-                            <div class="row gy-3">
-
-                                <div class="col-md-12">
-                                    <input type="text" name="name" class="form-control" placeholder="Name" required>
-                                </div>
-
-                                <div class="col-md-12 ">
-                                    <input type="email" class="form-control" name="email" placeholder="Email" required>
-                                </div>
-
-                                <div class="col-md-12">
-                                    <input type="text" class="form-control" name="phone" placeholder="Phone" required>
-                                </div>
-
-                                <div class="col-md-12">
-                                    <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
-                                </div>
-
-                                <div class="col-md-12 text-center">
-                                    <div class="loading">Loading</div>
-                                    <div class="error-message"></div>
-                                    <div class="sent-message">Your quote request has been sent successfully. Thank you!
-                                    </div>
-
-                                    <button type="submit">Get a quote</button>
-                                </div>
-
-                            </div>
-                        </form>
-                    </div><!-- End Quote Form -->
-
-                </div>
-
-            </div>
-        </section><!-- End Get Started Section -->
-
         <!-- ======= Constructions Section ======= -->
         <section id="constructions" class="constructions">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
                     <h2>Constructions</h2>
-                    <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt
-                        quis dolorem dolore earum</p>
+                    <p>Jasa Industri Untuk
+                        Berbagai Pengerjaan
+                        Khusus Logam Dan
+                        Barang Dari Logam
+                    </p>
                 </div>
 
                 <div class="row gy-4">
@@ -127,10 +73,16 @@
                                 </div>
                                 <div class="col-xl-7 d-flex align-items-center">
                                     <div class="card-body">
-                                        <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                                        <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem
-                                            placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia
-                                            temporibus illo magnam. Dolor eos et.</p>
+                                        <h4 class="card-title">Reparasi Produk Logam
+                                            Siap Pasang Untuk
+                                            Bangunan, Tangki,
+                                            Tandon Air Dan
+                                            Generator Uap
+                                            .</h4>
+                                        <p> Reparasi dan perawatan produk
+                                            logam pabrikasi di golongan 251, seperti reparasi tangki,
+                                            reservoir dan kontainer atau wadah logam, drum
+                                            pengapalan baja, generator uap atau uap air lainnya...</p>
                                     </div>
                                 </div>
                             </div>
@@ -147,10 +99,13 @@
                                 </div>
                                 <div class="col-xl-7 d-flex align-items-center">
                                     <div class="card-body">
-                                        <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                                        <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum
-                                            blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem
-                                            architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+                                        <h4 class="card-title">Konstruksi Gedung
+                                            Hunian</h4>
+                                        <p> mencakup usaha pembangunan,
+                                            pemeliharaan, dan/atau pembangunan kembali bangunan
+                                            yang dipakai untuk hunian, seperti rumah tinggal, rumah
+                                            tinggal sementara, rumah susun, apartemen dan
+                                            kondominium...</p>
                                     </div>
                                 </div>
                             </div>
@@ -495,7 +450,7 @@
             </div>
         </section><!-- End Features Section -->
 
-        <!-- ======= Our Projects Section ======= -->
+        {{-- <!-- ======= Our Projects Section ======= -->
         <section id="projects" class="projects">
             <div class="container" data-aos="fade-up">
 
@@ -706,7 +661,7 @@
                 </div>
 
             </div>
-        </section><!-- End Our Projects Section -->
+        </section><!-- End Our Projects Section --> --}}
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials section-bg">
@@ -843,7 +798,7 @@
             </div>
         </section>
 
-        <section id="recent-blog-posts" class="recent-blog-posts">
+        {{-- <section id="recent-blog-posts" class="recent-blog-posts">
             <div class="container" data-aos="fade-up">
                 <div class="section-header">
                     <h2>Recent Blog Posts</h2>
@@ -951,7 +906,7 @@
                 </div>
 
             </div>
-        </section>
+        </section> --}}
 
 
     </main>
