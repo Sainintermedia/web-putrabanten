@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>PT. Three Putera Banten Indonesia</title>
+<title>PT. Three Putera Banten</title>
 <style>
     body,
     html {
