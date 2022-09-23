@@ -66,10 +66,10 @@
                                         class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
-                    </div><!-- End footer info column-->
+                    </div>
 
-                    <div class="col-lg-8 col-md-8 footer-links">
-                        {{--  <div class="card rounded-0 text-bg-white">
+                    {{--  <div class="col-lg-8 col-md-8 footer-links">
+                        <div class="card rounded-0 text-bg-white">
                             <div class="card-body">
                                 <h4 class="text-dark">Partner Perusahaan</h4>
                                 <div class="row">
@@ -176,11 +176,21 @@
                                 </div>
 
                             </div>
-                        </div>  --}}
-                    </div>
-                    <!-- End footer links column-->
+                        </div>
+                    </div>  --}}
 
-                    {{--  <div class="col-lg-2 col-md-3 footer-links">
+                    <div class="col-lg-2 col-md-3 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li><a href="#">Terms of service</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><a href="#">Web Design</a></li>
@@ -189,7 +199,7 @@
                             <li><a href="#">Marketing</a></li>
                             <li><a href="#">Graphic Design</a></li>
                         </ul>
-                    </div><!-- End footer links column-->
+                    </div>
 
                     <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Hic solutasetp</h4>
@@ -200,8 +210,7 @@
                             <li><a href="#">Dilecta</a></li>
                             <li><a href="#">Sit quas consectetur</a></li>
                         </ul>
-                    </div><!-- End footer links column-->
-
+                    </div>
                     <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Nobis illum</h4>
                         <ul>
@@ -211,8 +220,7 @@
                             <li><a href="#">Trodelas</a></li>
                             <li><a href="#">Flexo</a></li>
                         </ul>
-                    </div>  --}}
-                    <!-- End footer links column-->
+                    </div>
 
                 </div>
             </div>
