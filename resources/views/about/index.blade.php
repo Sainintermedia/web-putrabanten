@@ -23,32 +23,37 @@
 
                 <div class="row position-relative">
 
-                    <div class="col-lg-7 about-img" style="background-image: url(assets/assets/img/about.jpg);"></div>
+                    <div class="col-lg-7 about-img"
+                        style="background-image: url(assets/assets/img/project/Jasa-Rangka.jpg);"></div>
 
                     <div class="col-lg-7">
-                        <h2>Consequatur eius et magnam</h2>
+                        {{-- <h4>PT. THREE PUTERA BANTEN INDONESIA</h4> --}}
                         <div class="our-story">
-                            <h4>Est 1988</h4>
+                            <h3>PT. THREE PUTERA BANTEN INDONESIA</h3>
+                            <h4>Est 2022</h4>
                             <h3>Our Story</h3>
-                            <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime
-                                autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam
+                            <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia
+                                maxime
+                                autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor.
+                                Aliquam
                                 consectetur laudantium temporibus dicta minus dolor.</p>
                             <ul>
                                 <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea
                                         commo</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit
                                         in</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span>
+                                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex
+                                        ea</span>
                                 </li>
                             </ul>
                             <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit
                                 repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
 
-                            <div class="watch-video d-flex align-items-center position-relative">
+                            {{-- <div class="watch-video d-flex align-items-center position-relative">
                                 <i class="bi bi-play-circle"></i>
                                 <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch
                                     Video</a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
 
@@ -114,7 +119,7 @@
         </section><!-- End Stats Counter Section -->
 
         <!-- ======= Alt Services Section ======= -->
-        {{--  <section id="alt-services" class="alt-services">
+        {{-- <section id="alt-services" class="alt-services">
             <div class="container" data-aos="fade-up">
 
                 <div class="row justify-content-around gy-4">
@@ -166,11 +171,11 @@
                 </div>
 
             </div>
-        </section>  --}}
+        </section> --}}
         <!-- End Alt Services Section -->
 
         <!-- ======= Alt Services Section 2 ======= -->
-        {{--  <section id="alt-services-2" class="alt-services section-bg">
+        {{-- <section id="alt-services-2" class="alt-services section-bg">
             <div class="container" data-aos="fade-up">
 
                 <div class="row justify-content-around gy-4">
@@ -221,7 +226,7 @@
                 </div>
 
             </div>
-        </section>  --}}
+        </section> --}}
         <!-- End Alt Services Section 2 -->
 
         <!-- ======= Our Team Section ======= -->
@@ -488,30 +493,8 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="row gy-4">
-
-                    <div class="col-lg-6 col-md-12" data-aos="zoom-in" data-aos-delay="100">
-                        <h3>Partnership</h3>
-                        <ul class="list-unstyled">
-                            <li>
-                                <div class="col-lg col-md portfolio-item">
-                                    <div class="portfolio-content h-100">
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="col-lg col-md portfolio-item">
-                                    <div class="portfolio-content h-100">
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- End feature item-->
-
-                    <div class="col-lg-6 col-md-12" data-aos="zoom-in" data-aos-delay="200">
-                        <h3>Client</h3>
+                    <div class="col-lg-12 col-md-12" data-aos="zoom-in" data-aos-delay="200">
+                        <h1 class="text-center">You're in good' company.</h1>
                         <div class="row">
                             <div class="col">
                                 <ul class="list-unstyled">
@@ -520,74 +503,43 @@
                                     </li>
                                     <li>
 
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        <img src="assets/assets/img/project/ptpgp.jpg" class="img-fluid" alt="">
                                 </ul>
                             </div>
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        <img src="assets/assets/img/project/pltulabuan.jpg" class="img-fluid"
+                                            alt="">
                                     </li>
                                     <li>
 
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        {{-- <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt=""> --}}
                                 </ul>
                             </div>
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        {{-- <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt=""> --}}
                                     </li>
                                     <li>
 
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        {{-- <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt=""> --}}
                                 </ul>
                             </div>
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        {{-- <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt=""> --}}
                                     </li>
                                     <li>
 
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                        {{-- <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt=""> --}}
                                 </ul>
                             </div>
                         </div>
-                        {{--  <ul class="list-unstyled">
-                            <li>
-                                <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">>
-                            </li>
-                            <li>
-
-                                <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
-                        </ul>  --}}
                     </div>
                     <!-- End feature item-->
-
-                    {{--  <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-                        <h3>Staque laboriosam modi</h3>
-                        <p>Velit eos error et dolor omnis voluptates nobis tenetur sed enim nihil vero qui suscipit ipsum at
-                            magni. Ipsa architecto consequatur aliquam</p>
-                        <ul class="list-unstyled">
-                            <li><i class="bi bi-check2"></i> <span>Quis voluptates laboriosam numquam</span></li>
-                            <li><i class="bi bi-check2"></i> <span>Treva libero sunt quis veniam ut</span></li>
-                            <li><i class="bi bi-check2"></i> <span>Debitis eos est est corrupti</span></li>
-                        </ul>
-                    </div>
-                    <!-- End feature item-->
-
-                    <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-                        <h3>Dignissimos suscipit iste</h3>
-                        <p>Molestiae occaecati assumenda quia saepe nobis recusandae at dicta ducimus sequi numquam commodi
-                            est in consequatur ea magnam quia itaque</p>
-                        <ul class="list-unstyled">
-                            <li><i class="bi bi-check2"></i> <span>Veritatis qui reprehenderit quis</span></li>
-                            <li><i class="bi bi-check2"></i> <span>Accusantium vel numquam sunt minus</span></li>
-                            <li><i class="bi bi-check2"></i> <span>Voluptatem pariatur est sationem</span></li>
-                        </ul>
-                    </div>
-                    <!-- End feature item-->  --}}
 
                 </div>
 
