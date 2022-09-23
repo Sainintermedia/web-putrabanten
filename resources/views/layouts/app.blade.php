@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="{{ URL::asset('assets/assets/img/logo.png') }}" rel='shortcut icon'>
-    <link href="{{ URL::asset('assets/assets/img/logo.png') }}" rel='shortcut icon'>
+    <link href="{{ URL::asset('assets/assets/img/logotitle.png') }}" rel='shortcut icon'>
+    <link href="{{ URL::asset('assets/assets/img/logotitle.png') }}" rel='shortcut icon'>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -48,8 +48,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-2 col-md-3 footer-links">
-                        {{--  <h4>Useful Links</h4>  --}}
-                        <img src="{{ URL::asset('assets/assets/img/logo.png') }}" class="img-fluid" alt="">
+                        {{-- <h4>Useful Links</h4> --}}
+                        <img src="{{ URL::asset('assets/assets/img/logotitle.png') }}" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-4 col-md-6">
@@ -73,7 +73,7 @@
                         </div>
                     </div>
 
-                    {{--  <div class="col-lg-8 col-md-8 footer-links">
+                    {{-- <div class="col-lg-8 col-md-8 footer-links">
                         <div class="card rounded-0 text-bg-white">
                             <div class="card-body">
                                 <h4 class="text-dark">Partner Perusahaan</h4>
@@ -182,9 +182,9 @@
 
                             </div>
                         </div>
-                    </div>  --}}
+                    </div> --}}
 
-                    {{--  <div class="col-lg-2 col-md-3 footer-links">
+                    {{-- <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><a href="#">Home</a></li>
@@ -193,7 +193,7 @@
                             <li><a href="#">Terms of service</a></li>
                             <li><a href="#">Privacy policy</a></li>
                         </ul>
-                    </div>  --}}
+                    </div> --}}
 
                     <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Our Services</h4>

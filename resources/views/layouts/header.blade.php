@@ -2,7 +2,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="index.html" class="logo d-flex align-items-center">
-            <img src="{{ URL::asset('assets/assets/img/logo.png') }}" alt="">
+            <img src="{{ URL::asset('assets/assets/img/logotitle.png') }}" alt="">
             {{-- <h1>ThreePuteraBantenIndonesia<span>.</span></h1> --}}
         </a>
 
@@ -26,7 +26,7 @@
                 <li><a href="{{ route('project.index') }}"
                         class="{{ request()->is('project') || request()->is('project/*') ? 'active' : '' }}">Project</a>
                 </li>
-                {{--  <li class="dropdown"><a href="#"><span>Dropdown</span> <i
+                {{-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i
                             class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                         <li><a href="#">Dropdown 1</a></li>
@@ -44,7 +44,7 @@
                         <li><a href="#">Dropdown 3</a></li>
                         <li><a href="#">Dropdown 4</a></li>
                     </ul>
-                </li>  --}}
+                </li> --}}
                 <li><a href="{{ route('contact.us.index') }}"
                         class="{{ request()->is('contact-us') || request()->is('contact-us/*') ? 'active' : '' }}">Contact
                         Us</a>
