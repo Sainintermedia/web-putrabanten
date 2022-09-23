@@ -253,8 +253,7 @@
                         <div class="member-info text-center">
                             <h4>Rafli Fallah</h4>
                             <span>Direktur Utama</span>
-                            <p>Aliquam iure quaerat voluptatem praesentium possimus unde laudantium vel dolorum distinctio
-                                dire flow</p>
+                            <p>Jika kau tidak meraskan getir pahitnya perjuangan ,maka kesuksesan tidak akan menemuimu</p>
                         </div>
                     </div><!-- End Team Member -->
 
@@ -271,8 +270,7 @@
                         <div class="member-info text-center">
                             <h4>Mohamad Awalludin</h4>
                             <span>Direktur Keuangan</span>
-                            <p>Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium aut quod dolores
-                                exercitationem ut</p>
+                            <p>Peluang nyata untuk sukses terletak di dalam diri seseorang dan bukan pada pekerjaannya</p>
                         </div>
                     </div><!-- End Team Member -->
 
@@ -289,8 +287,7 @@
                         <div class="member-info text-center">
                             <h4>Haryadi</h4>
                             <span>Direktur Operasional</span>
-                            <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque
-                                sed facilis at qui</p>
+                            <p> Jika kamu tidak berjuang untuk mendapatkan apa yang kamu inginkan, maka jangan menangis untuk apa yang tidak kamu dapatkan</p>
                         </div>
                     </div><!-- End Team Member -->
 
@@ -308,14 +305,13 @@
                         <div class="member-info text-center">
                             <h4>Mulyanto</h4>
                             <span>Komisaris</span>
-                            <p>Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate sed et veniam quasi
-                                quam consectetur</p>
+                            <p>Usaha dan keberanian tidak cukup tanpa adanya tujuan dan arah perencanaan</p>
                         </div>
                     </div><!-- End Team Member -->
 
                     <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="500">
                         <div class="member-img">
-                            <img src="assets/assets/img/team/team-5.jpg" class="img-fluid" alt="">
+                            <img src="assets/assets/img/team/team-5.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -324,14 +320,13 @@
                             </div>
                         </div>
                         <div class="member-info text-center">
-                            <h4>Brian Doe</h4>
-                            <span>Marketing</span>
-                            <p>Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam sunt doloribus quia
-                                impedit laborum velit</p>
+                            <h4>Muhamad Fikri Haikal</h4>
+                            <span>Komisaris</span>
+                            <p>Sering berpikir negatif akan menyebabkan semua impian besarmu akan terbakar</p>
                         </div>
                     </div><!-- End Team Member -->
 
-                    <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="600">
+                    {{-- <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="600">
                         <div class="member-img">
                             <img src="assets/assets/img/team/team-6.jpg" class="img-fluid" alt="">
                             <div class="social">
@@ -347,7 +342,7 @@
                             <p>Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum earum et omnis fugit
                                 eligendi cupiditate vel</p>
                         </div>
-                    </div><!-- End Team Member -->
+                    </div><!-- End Team Member --> --}}
 
                 </div>
 
