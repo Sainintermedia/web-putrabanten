@@ -484,5 +484,114 @@
             </div>
         </section><!-- End Testimonials Section -->
 
+        <section id="services-cards" class="services-cards">
+            <div class="container" data-aos="fade-up">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-6 col-md-12" data-aos="zoom-in" data-aos-delay="100">
+                        <h3>Partnership</h3>
+                        <ul class="list-unstyled">
+                            <li>
+                                <div class="col-lg col-md portfolio-item">
+                                    <div class="portfolio-content h-100">
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="col-lg col-md portfolio-item">
+                                    <div class="portfolio-content h-100">
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End feature item-->
+
+                    <div class="col-lg-6 col-md-12" data-aos="zoom-in" data-aos-delay="200">
+                        <h3>Client</h3>
+                        <div class="row">
+                            <div class="col">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                    </li>
+                                    <li>
+
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                    </li>
+                                    <li>
+
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                    </li>
+                                    <li>
+
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                    </li>
+                                    <li>
+
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                                </ul>
+                            </div>
+                        </div>
+                        {{--  <ul class="list-unstyled">
+                            <li>
+                                <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">>
+                            </li>
+                            <li>
+
+                                <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
+                        </ul>  --}}
+                    </div>
+                    <!-- End feature item-->
+
+                    {{--  <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+                        <h3>Staque laboriosam modi</h3>
+                        <p>Velit eos error et dolor omnis voluptates nobis tenetur sed enim nihil vero qui suscipit ipsum at
+                            magni. Ipsa architecto consequatur aliquam</p>
+                        <ul class="list-unstyled">
+                            <li><i class="bi bi-check2"></i> <span>Quis voluptates laboriosam numquam</span></li>
+                            <li><i class="bi bi-check2"></i> <span>Treva libero sunt quis veniam ut</span></li>
+                            <li><i class="bi bi-check2"></i> <span>Debitis eos est est corrupti</span></li>
+                        </ul>
+                    </div>
+                    <!-- End feature item-->
+
+                    <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+                        <h3>Dignissimos suscipit iste</h3>
+                        <p>Molestiae occaecati assumenda quia saepe nobis recusandae at dicta ducimus sequi numquam commodi
+                            est in consequatur ea magnam quia itaque</p>
+                        <ul class="list-unstyled">
+                            <li><i class="bi bi-check2"></i> <span>Veritatis qui reprehenderit quis</span></li>
+                            <li><i class="bi bi-check2"></i> <span>Accusantium vel numquam sunt minus</span></li>
+                            <li><i class="bi bi-check2"></i> <span>Voluptatem pariatur est sationem</span></li>
+                        </ul>
+                    </div>
+                    <!-- End feature item-->  --}}
+
+                </div>
+
+            </div>
+        </section>
     </main>
 @endsection

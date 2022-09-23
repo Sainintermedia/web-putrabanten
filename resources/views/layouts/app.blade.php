@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>@yield('title')</title>
+    <title>@yield('title') | PT. Three Putera Banten Indonesia</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -47,12 +47,16 @@
         <div class="footer-content position-relative">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-2 col-md-3 footer-links">
+                        {{--  <h4>Useful Links</h4>  --}}
+                        <img src="{{ URL::asset('assets/assets/img/logo.png') }}" class="img-fluid" alt="">
+                    </div>
 
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-info">
                             <h4>PT. THREE PUTERA BANTEN INDONESIA</h4>
-                            <p>Jalan raya Cilegon Serang (Perempatan Serdang) <br>
-                                Serdang, Keramatawatu, Kab. Serang - Banten. <br> <br>
+                            <p>Jl. Raya Cilegon, Serang (Perempatan Serdang) <br>
+                                Serdang, Kec. Kramatwatu, Kabupaten Serang, Banten. <br> <br>
                                 <strong>Phone:</strong> +1 5589 55488 55<br>
                                 <strong>Email:</strong> info@example.com<br>
                             </p>
@@ -67,25 +71,131 @@
                                         class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
-                    </div><!-- End footer info column-->
+                    </div>
 
-                    <div class="col-lg-8 col-md-8 footer-links">
-                        <div class="card rounded-0 text-bg-dark">
+                    {{--  <div class="col-lg-8 col-md-8 footer-links">
+                        <div class="card rounded-0 text-bg-white">
                             <div class="card-body">
-                                <h4>Client Perusahaan</h4>
-                                <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Terms of service</a></li>
-                                    <li><a href="#">Privacy policy</a></li>
-                                </ul>
+                                <h4 class="text-dark">Partner Perusahaan</h4>
+                                <div class="row">
+                                    <div class="col">
+                                        <ul>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col">
+                                        <ul>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col">
+                                        <ul>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col">
+                                        <ul>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col">
+                                        <ul>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="col-lg col-md portfolio-item">
+                                                    <div class="portfolio-content h-100">
+                                                        <img src="assets/assets/img/legalitas/par1.png"
+                                                            class="img-fluid" alt="">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
-                    </div>
-                    <!-- End footer links column-->
+                    </div>  --}}
 
                     {{--  <div class="col-lg-2 col-md-3 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li><a href="#">Terms of service</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                        </ul>
+                    </div>  --}}
+
+                    <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><a href="#">Web Design</a></li>
@@ -94,7 +204,7 @@
                             <li><a href="#">Marketing</a></li>
                             <li><a href="#">Graphic Design</a></li>
                         </ul>
-                    </div><!-- End footer links column-->
+                    </div>
 
                     <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Hic solutasetp</h4>
@@ -105,8 +215,7 @@
                             <li><a href="#">Dilecta</a></li>
                             <li><a href="#">Sit quas consectetur</a></li>
                         </ul>
-                    </div><!-- End footer links column-->
-
+                    </div>
                     <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Nobis illum</h4>
                         <ul>
@@ -116,8 +225,7 @@
                             <li><a href="#">Trodelas</a></li>
                             <li><a href="#">Flexo</a></li>
                         </ul>
-                    </div>  --}}
-                    <!-- End footer links column-->
+                    </div>
 
                 </div>
             </div>
