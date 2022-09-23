@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="{{ URL::asset('assets/assets/img/logo.png') }}">
-    <link href="{{ URL::asset('assets/assets/img/logo.png') }}">
+    <link href="{{ URL::asset('assets/assets/img/logo.png') }}" rel='shortcut icon'>
+    <link href="{{ URL::asset('assets/assets/img/logo.png') }}" rel='shortcut icon'>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

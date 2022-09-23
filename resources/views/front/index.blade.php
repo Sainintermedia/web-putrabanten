@@ -185,7 +185,7 @@
                                 tujuan untuk dijual dan kegiatan perubahan dan renovasi
                                 gedung hunian.
                             </p>
-                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
+                            <a href="{{ route('service.index') }}" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -203,7 +203,7 @@
                                 untuk perkantoran yang dikerjakan oleh perusahaan real
                                 estat dengan tujuan untuk dijual dan kegiatan perubahan
                                 dan renovasi gedung perkantoran.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
+                            <a href="{{ route('service.index') }}" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -222,7 +222,7 @@
                                 bangunan pabrik untuk pengelolaan dan pemrosesan
                                 bahan nuklir. Termasuk kegiatan perubahan dan renovasi
                                 gedung industri.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
+                            <a href="{{ route('service.index') }}" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -243,7 +243,7 @@
                                 oleh perusahaan real estat dengan tujuan untuk dijual dan
                                 kegiatan perubahan dan renovasi gedung perbelanjaan.
                             </p>
-                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
+                            <a href="{{ route('service.index') }}" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -261,7 +261,7 @@
                                 poliklinik, puskesmas, balai pengobatan, gedung pelayanan
                                 kesehatan dan gedung laboratorium. Termasuk kegiatan
                                 perubahan dan renovasi gedung kesehatan.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
+                            <a href="{{ route('service.index') }}" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -280,7 +280,7 @@
                                 penunjang pendidikan lainnya. Termasuk kegiatan
                                 perubahan dan renovasi gedung pendidikan.
                             </p>
-                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
+                            <a href="{{ route('service.index') }}" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
