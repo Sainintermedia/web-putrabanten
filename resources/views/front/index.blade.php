@@ -12,7 +12,7 @@
                             pelapisan, pemolesan, pewarnaan, pengukiran,
                             pengerasan, pengkilapan, pengelasan, pemotongan dan
                             berbagai pekerjaan khusus terhadap logam atau barangbarang dari logam.</p>
-                        <a data-aos="fade-up" data-aos-delay="200" href="#constructions" class="btn-get-started">Get
+                        <a data-aos="fade-up" data-aos-delay="200" href="#services" class="btn-get-started">Get
                             Started</a>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
     <main id="main">
 
         <!-- ======= Constructions Section ======= -->
-        <section id="constructions" class="constructions">
+        {{--  <section id="constructions" class="constructions">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
@@ -155,7 +155,8 @@
                 </div>
 
             </div>
-        </section><!-- End Constructions Section -->
+        </section>  --}}
+        <!-- End Constructions Section -->
 
         <!-- ======= Services Section ======= -->
         <section id="services" class="services section-bg">
@@ -163,8 +164,8 @@
 
                 <div class="section-header">
                     <h2>Services</h2>
-                    <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti
-                        fignissimos eos quam</p>
+                    {{--  <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti
+                        fignissimos eos quam</p>  --}}
                 </div>
 
                 <div class="row gy-4">
@@ -174,10 +175,17 @@
                             <div class="icon">
                                 <i class="fa-solid fa-mountain-city"></i>
                             </div>
-                            <h3>Nesciunt Mete</h3>
-                            <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores
-                                iure perferendis tempore et consequatur.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Learn more <i
+                            <h3>Konstruksi Gedung Hunian</h3>
+                            <p>Kelompok ini mencakup usaha pembangunan,
+                                pemeliharaan, dan/atau pembangunan kembali bangunan
+                                yang dipakai untuk hunian, seperti rumah tinggal, rumah
+                                tinggal sementara, rumah susun, apartemen dan
+                                kondominium. Termasuk pembangunan gedung untuk
+                                hunian yang dikerjakan oleh perusahaan real estat dengan
+                                tujuan untuk dijual dan kegiatan perubahan dan renovasi
+                                gedung hunian.
+                            </p>
+                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -187,10 +195,15 @@
                             <div class="icon">
                                 <i class="fa-solid fa-arrow-up-from-ground-water"></i>
                             </div>
-                            <h3>Eosle Commodi</h3>
-                            <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum
-                                hic non ut nesciunt dolorem.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Learn more <i
+                            <h3>Konstruksi Gedung Perkantoran</h3>
+                            <p>Kelompok ini mencakup usaha pembangunan,
+                                pemeliharaan, dan/atau pembangunan kembali bangunan
+                                yang dipakai untuk gedung perkantoran, seperti kantor dan
+                                rumah kantor (rukan). Termasuk pembangunan gedung
+                                untuk perkantoran yang dikerjakan oleh perusahaan real
+                                estat dengan tujuan untuk dijual dan kegiatan perubahan
+                                dan renovasi gedung perkantoran.</p>
+                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -200,10 +213,16 @@
                             <div class="icon">
                                 <i class="fa-solid fa-compass-drafting"></i>
                             </div>
-                            <h3>Ledo Markt</h3>
-                            <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id
-                                voluptas adipisci eos earum corrupti.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Learn more <i
+                            <h3>Konstruksi Gedung
+                                Industri</h3>
+                            <p>Kelompok ini mencakup usaha pembangunan,
+                                pemeliharaan, dan/atau pembangunan kembali bangunan
+                                yang dipakai untuk industri, seperti gedung
+                                perindustrian/pabrik, gedung workshop/bengkel kerja,
+                                bangunan pabrik untuk pengelolaan dan pemrosesan
+                                bahan nuklir. Termasuk kegiatan perubahan dan renovasi
+                                gedung industri.</p>
+                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -213,10 +232,18 @@
                             <div class="icon">
                                 <i class="fa-solid fa-trowel-bricks"></i>
                             </div>
-                            <h3>Asperiores Commodit</h3>
-                            <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga
-                                sit provident adipisci neque.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Learn more <i
+                            <h3>Konstruksi Gedung
+                                Perbelanjaan
+                            </h3>
+                            <p>Kelompok ini mencakup usaha pembangunan,
+                                pemeliharaan, dan/atau pembangunan kembali bangunan
+                                yang dipakai untuk perbelanjaan, seperti gedung
+                                perdagangan/pasar/mall, toserba, toko, rumah toko (ruko)
+                                dan warung. Termasuk pembangunan ruko yang dikerjakan
+                                oleh perusahaan real estat dengan tujuan untuk dijual dan
+                                kegiatan perubahan dan renovasi gedung perbelanjaan.
+                            </p>
+                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -226,10 +253,15 @@
                             <div class="icon">
                                 <i class="fa-solid fa-helmet-safety"></i>
                             </div>
-                            <h3>Velit Doloremque</h3>
-                            <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed
-                                animi at autem alias eius labore.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Learn more <i
+                            <h3>Konstruksi Gedung
+                                Kesehatan</h3>
+                            <p>Kelompok ini mencakup usaha pembangunan,
+                                pemeliharaan, dan/atau pembangunan kembali bangunan
+                                yang dipakai untuk sarana kesehatan, seperti rumah sakit,
+                                poliklinik, puskesmas, balai pengobatan, gedung pelayanan
+                                kesehatan dan gedung laboratorium. Termasuk kegiatan
+                                perubahan dan renovasi gedung kesehatan.</p>
+                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -239,10 +271,16 @@
                             <div class="icon">
                                 <i class="fa-solid fa-arrow-up-from-ground-water"></i>
                             </div>
-                            <h3>Dolori Architecto</h3>
-                            <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure.
-                                Corrupti recusandae ducimus enim.</p>
-                            <a href="service-details.html" class="readmore stretched-link">Learn more <i
+                            <h3> Konstruksi Gedung
+                                Pendidikan</h3>
+                            <p>Kelompok ini mencakup usaha pembangunan,
+                                pemeliharaan, dan/atau pembangunan kembali bangunan
+                                yang dipakai untuk sarana pendidikan, seperti gedung
+                                sekolah, tempat kursus, laboratorium dan bangunan
+                                penunjang pendidikan lainnya. Termasuk kegiatan
+                                perubahan dan renovasi gedung pendidikan.
+                            </p>
+                            <a href="service-details.html" class="readmore stretched-link">Baca Selengkapnya... <i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -308,7 +346,7 @@
         </section><!-- End Alt Services Section -->
 
         <!-- ======= Features Section ======= -->
-        <section id="features" class="features section-bg">
+        {{--  <section id="features" class="features section-bg">
             <div class="container" data-aos="fade-up">
 
                 <ul class="nav nav-tabs row  g-2 d-flex">
@@ -448,7 +486,8 @@
                 </div>
 
             </div>
-        </section><!-- End Features Section -->
+        </section>  --}}
+        <!-- End Features Section -->
 
         {{-- <!-- ======= Our Projects Section ======= -->
         <section id="projects" class="projects">

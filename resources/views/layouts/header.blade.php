@@ -2,7 +2,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
         <a href="index.html" class="logo d-flex align-items-center">
-            <img src="assets/assets/img/logo.png" alt="">
+            <img src="{{ URL::asset('assets/assets/img/logo.png') }}" alt="">
             {{-- <h1>ThreePuteraBantenIndonesia<span>.</span></h1> --}}
         </a>
 
@@ -10,12 +10,23 @@
         <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a href="index.html" class="active">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li class="dropdown"><a href="#"><span>Dropdown</span> <i
+                <li><a href="{{ route('front.index') }}"
+                        class="{{ request()->is('/') || request()->is('/*') ? 'active' : '' }}">Home</a>
+                </li>
+                <li><a href="{{ route('about.index') }}"
+                        class="{{ request()->is('about') || request()->is('about/*') ? 'active' : '' }}">About</a>
+                </li>
+                <li><a href="{{ route('service.index') }}"
+                        class="{{ request()->is('service') || request()->is('service/*') ? 'active' : '' }}">Services</a>
+                </li>
+                <li><a href="{{ route('legalitas.perusahaan.index') }}"
+                        class="{{ request()->is('legalitas-perusahaan') || request()->is('legalitas-perusahaan/*') ? 'active' : '' }}">Legalitas
+                        Perusahaan</a>
+                </li>
+                <li><a href="{{ route('project.index') }}"
+                        class="{{ request()->is('project') || request()->is('project/*') ? 'active' : '' }}">Project</a>
+                </li>
+                {{--  <li class="dropdown"><a href="#"><span>Dropdown</span> <i
                             class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                         <li><a href="#">Dropdown 1</a></li>
@@ -33,8 +44,10 @@
                         <li><a href="#">Dropdown 3</a></li>
                         <li><a href="#">Dropdown 4</a></li>
                     </ul>
+                </li>  --}}
+                <li><a href="{{ route('contact.us.index') }}"
+                        class="{{ request()->is('contact-us') || request()->is('contact-us/*') ? 'active' : '' }}">Contact</a>
                 </li>
-                <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </div>
