@@ -289,6 +289,7 @@
                                 sed facilis at qui</p>
                         </div>
                     </div><!-- End Team Member -->
+                    
 
                     <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
                         <div class="member-img">
