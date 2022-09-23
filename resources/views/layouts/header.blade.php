@@ -46,7 +46,8 @@
                     </ul>
                 </li>  --}}
                 <li><a href="{{ route('contact.us.index') }}"
-                        class="{{ request()->is('contact-us') || request()->is('contact-us/*') ? 'active' : '' }}">Contact</a>
+                        class="{{ request()->is('contact-us') || request()->is('contact-us/*') ? 'active' : '' }}">Contact
+                        Us</a>
                 </li>
             </ul>
         </nav>
