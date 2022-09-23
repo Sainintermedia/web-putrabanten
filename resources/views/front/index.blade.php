@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2 data-aos="fade-down"><span>Three Putera Banten Indonesia</span></h2>
+                        <h2 data-aos="fade-down"><span>PT. Three Putera Banten Indonesia</span></h2>
                         <p data-aos="fade-up">Jasa industri untuk
                             pelapisan, pemolesan, pewarnaan, pengukiran,
                             pengerasan, pengkilapan, pengelasan, pemotongan dan
@@ -49,7 +49,7 @@
     <main id="main">
 
         <!-- ======= Constructions Section ======= -->
-        {{--  <section id="constructions" class="constructions">
+        {{-- <section id="constructions" class="constructions">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
@@ -155,7 +155,7 @@
                 </div>
 
             </div>
-        </section>  --}}
+        </section> --}}
         <!-- End Constructions Section -->
 
         <!-- ======= Services Section ======= -->
@@ -164,8 +164,8 @@
 
                 <div class="section-header">
                     <h2>Services</h2>
-                    {{--  <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti
-                        fignissimos eos quam</p>  --}}
+                    {{-- <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti
+                        fignissimos eos quam</p> --}}
                 </div>
 
                 <div class="row gy-4">
@@ -346,7 +346,7 @@
         </section><!-- End Alt Services Section -->
 
         <!-- ======= Features Section ======= -->
-        {{--  <section id="features" class="features section-bg">
+        {{-- <section id="features" class="features section-bg">
             <div class="container" data-aos="fade-up">
 
                 <ul class="nav nav-tabs row  g-2 d-flex">
@@ -486,7 +486,7 @@
                 </div>
 
             </div>
-        </section>  --}}
+        </section> --}}
         <!-- End Features Section -->
 
         {{-- <!-- ======= Our Projects Section ======= -->
