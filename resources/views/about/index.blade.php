@@ -287,7 +287,8 @@
                         <div class="member-info text-center">
                             <h4>Haryadi</h4>
                             <span>Direktur Operasional</span>
-                            <p> Jika kamu tidak berjuang untuk mendapatkan apa yang kamu inginkan, maka jangan menangis untuk apa yang tidak kamu dapatkan</p>
+                            <p> Jika kamu tidak berjuang untuk mendapatkan apa yang kamu inginkan, maka jangan menangis
+                                untuk apa yang tidak kamu dapatkan</p>
                         </div>
                     </div><!-- End Team Member -->
 
