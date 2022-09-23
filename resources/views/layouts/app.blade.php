@@ -55,10 +55,10 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-info">
                             <h4>PT. THREE PUTERA BANTEN INDONESIA</h4>
-                            <p>Jl. Raya Cilegon, Serang (Perempatan Serdang) <br>
-                                Serdang, Kec. Kramatwatu, Kabupaten Serang, Banten. <br> <br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> info@example.com<br>
+                            <p>Jalan Raya Serang Jakarta KM.64 <br>
+                                Parigi, Kec. Cikande, Kabupaten Serang, Banten. <br> <br>
+                                <strong>Phone:</strong> +62 813 8118 5922<br>
+                                <strong>Email:</strong> threeputerabantenindonesia@gmail.com<br>
                             </p>
                             <div class="social-links d-flex mt-3">
                                 <a href="#" class="d-flex align-items-center justify-content-center"><i
