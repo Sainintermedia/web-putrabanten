@@ -516,8 +516,7 @@
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid"
-                                            alt="">>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
                                     </li>
                                     <li>
 
@@ -527,8 +526,7 @@
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid"
-                                            alt="">>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
                                     </li>
                                     <li>
 
@@ -538,8 +536,7 @@
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid"
-                                            alt="">>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
                                     </li>
                                     <li>
 
@@ -549,8 +546,7 @@
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <li>
-                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid"
-                                            alt="">>
+                                        <img src="assets/assets/img/legalitas/par1.png" class="img-fluid" alt="">
                                     </li>
                                     <li>
 

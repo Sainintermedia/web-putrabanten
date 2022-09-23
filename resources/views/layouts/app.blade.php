@@ -47,6 +47,11 @@
         <div class="footer-content position-relative">
             <div class="container">
                 <div class="row">
+                    <div class="col-lg-2 col-md-3 footer-links">
+                        {{--  <h4>Useful Links</h4>  --}}
+                        <img src="{{ URL::asset('assets/assets/img/logo.png') }}" class="img-fluid" alt="">
+                    </div>
+
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-info">
                             <h4>PT. THREE PUTERA BANTEN INDONESIA</h4>
@@ -179,7 +184,7 @@
                         </div>
                     </div>  --}}
 
-                    <div class="col-lg-2 col-md-3 footer-links">
+                    {{--  <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><a href="#">Home</a></li>
@@ -188,7 +193,7 @@
                             <li><a href="#">Terms of service</a></li>
                             <li><a href="#">Privacy policy</a></li>
                         </ul>
-                    </div>
+                    </div>  --}}
 
                     <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Our Services</h4>
