@@ -230,15 +230,14 @@
 
                 <div class="section-header">
                     <h2>Our Team</h2>
-                    <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id
-                        nobis omnis tiledo stran delop</p>
+                    <p>PT. THREE PUTERA BANTEN INDONESIA</p>
                 </div>
 
                 <div class="row gy-5">
 
                     <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
                         <div class="member-img">
-                            <img src="assets/assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/assets/img/team/team-1.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -256,7 +255,7 @@
 
                     <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="200">
                         <div class="member-img">
-                            <img src="assets/assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/assets/img/team/team-2.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -274,7 +273,26 @@
 
                     <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
                         <div class="member-img">
-                            <img src="assets/assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/assets/img/team/team-4.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info text-center">
+                            <h4>Haryadi</h4>
+                            <span>Direktur Operasional</span>
+                            <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque
+                                sed facilis at qui</p>
+                        </div>
+                    </div><!-- End Team Member -->
+
+
+                    <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
+                        <div class="member-img">
+                            <img src="assets/assets/img/team/team-3.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -284,26 +302,7 @@
                         </div>
                         <div class="member-info text-center">
                             <h4>Mulyanto</h4>
-                            <span>CTO</span>
-                            <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque
-                                sed facilis at qui</p>
-                        </div>
-                    </div><!-- End Team Member -->
-                    
-
-                    <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="400">
-                        <div class="member-img">
-                            <img src="assets/assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href="#"><i class="bi bi-twitter"></i></a>
-                                <a href="#"><i class="bi bi-facebook"></i></a>
-                                <a href="#"><i class="bi bi-instagram"></i></a>
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info text-center">
-                            <h4>Amanda Jepson</h4>
-                            <span>Accountant</span>
+                            <span>Komisaris</span>
                             <p>Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate sed et veniam quasi
                                 quam consectetur</p>
                         </div>
