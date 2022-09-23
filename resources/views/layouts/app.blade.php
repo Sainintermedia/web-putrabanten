@@ -195,7 +195,7 @@
                         </ul>
                     </div> --}}
 
-                    <div class="col-lg-2 col-md-3 footer-links">
+                    {{-- <div class="col-lg-2 col-md-3 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><a href="#">Web Design</a></li>
@@ -225,7 +225,7 @@
                             <li><a href="#">Trodelas</a></li>
                             <li><a href="#">Flexo</a></li>
                         </ul>
-                    </div>
+                    </div> --}}
 
                 </div>
             </div>
@@ -236,12 +236,8 @@
                 <div class="copyright">
                     &copy; Copyright <strong><span>PT. THREE PUTERA BANTEN INDONESIA</span></strong>
                 </div>
-                <div class="credits">
-                    <!-- All the links in the footer should remain intact. -->
-                    <!-- You can delete the links only if you purchased the pro version. -->
-                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/ -->
-                    Designed by <a href="https://instagram.com/sain.intermedia?igshid=YmMyMTA2M2Y=">SAIN INTERMEDIA</a>
+                <div class="credits">Designed by <a
+                        href="https://instagram.com/sain.intermedia?igshid=YmMyMTA2M2Y=">SAIN INTERMEDIA</a>
                 </div>
             </div>
         </div>

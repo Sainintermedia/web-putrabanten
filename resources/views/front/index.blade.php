@@ -24,14 +24,17 @@
             <div class="carousel-item active"
                 style="background-image: url(assets/assets/img/hero-carousel/hero-carousel-1.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(assets/assets/img/hero-carousel/hero-carousel-2.jpg)">
+            {{-- C:\xampp\htdocs\putrabanten\public\assets\assets\img\project\Ilustrasi-kontruksi.jpg --}}
+            <div class="carousel-item" style="background-image: url(assets/assets/img/project/Ilustrasi-kontruksi.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(assets/assets/img/hero-carousel/hero-carousel-3.jpg)">
+            {{-- C:\xampp\htdocs\putrabanten\public\assets\assets\img\project\Jasa-Rangka.jpg --}}
+            <div class="carousel-item" style="background-image: url(assets/assets/img/project/Jasa-Rangka.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(assets/assets/img/hero-carousel/hero-carousel-4.jpg)">
+            {{-- C:\xampp\htdocs\putrabanten\public\assets\assets\img\project\Ilustrasi-kontruksi.jpg --}}
+            {{-- <div class="carousel-item" style="background-image: url(assets/assets/img/hero-carousel/hero-carousel-4.jpg)">
             </div>
             <div class="carousel-item" style="background-image: url(assets/assets/img/hero-carousel/hero-carousel-5.jpg)">
-            </div>
+            </div> --}}
 
             <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -295,7 +298,9 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="row justify-content-around gy-4">
-                    <div class="col-lg-6 img-bg" style="background-image: url(assets/assets/img/alt-services.jpg);"
+                    {{-- C:\xampp\htdocs\putrabanten\public\assets\assets\img\project\Ilustrasi-kontruksi.jpg --}}
+                    {{-- <div class="col-lg-6 img-bg" style="background-image: url(assets/assets/img/alt-services.jpg);" --}}
+                    <div class="col-lg-6 img-bg" style="background-image: url(assets/assets/img/project/jasa-rangka.jpg);"
                         data-aos="zoom-in" data-aos-delay="100"></div>
 
                     <div class="col-lg-5 d-flex flex-column justify-content-center">
