@@ -58,6 +58,7 @@
                             <p>Jalan Raya Serang Jakarta KM.64 <br>
                                 Parigi, Kec. Cikande, Kabupaten Serang, Banten. <br> <br>
                                 <strong>Phone:</strong> +62 813 8118 5922<br>
+                                <strong>...........</strong> +62 813 1000 0394<br>
                                 <strong>Email:</strong> threeputerabantenindonesia@gmail.com<br>
                             </p>
                             {{--  <div class="social-links d-flex mt-3">

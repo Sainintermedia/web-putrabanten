@@ -42,7 +42,8 @@
                         <div class="info-item  d-flex flex-column justify-content-center align-items-center">
                             <i class="bi bi-telephone"></i>
                             <h3>Call Us</h3>
-                            <p>+62 813 8118 5922</p>
+                            <p>+62 813 8118 5922</p><br>
+                            <p>+62 813 1000 0394</p>
                         </div>
                     </div><!-- End Info Item -->
 
