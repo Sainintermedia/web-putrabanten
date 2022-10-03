@@ -27,36 +27,72 @@
                         style="background-image: url(assets/assets/img/project/Jasa-Rangka.jpg);"></div>
 
                     <div class="col-lg-7">
-                        {{-- <h4>PT. THREE PUTERA BANTEN INDONESIA</h4> --}}
+                        <h2>PT. THREE PUTERA BANTEN INDONESIA</h2>
                         <div class="our-story">
-                            <h3>PT. THREE PUTERA BANTEN INDONESIA</h3>
                             <h4>Est 2022</h4>
                             <h3>Our Story</h3>
-                            <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia
-                                maxime
-                                autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor.
-                                Aliquam
-                                consectetur laudantium temporibus dicta minus dolor.</p>
+                            <p>Berdiri sejak tahun sesuai dengan Akta Perseroan no. 41 tanggal 09 September 2022 yang dibuat
+                                dihadapan notaris DR. Hj. HASANAWATI JUWENI SHANDE, SH.M.Kn dengan SK Menkumham Nomor ;
+                                AHU-0062843.AH.01.01.TAHUN 2022.</p>
                             <ul>
-                                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea
-                                        commo</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit
-                                        in</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex
-                                        ea</span>
+                                <li><i class="bi bi-check-circle"></i> <span>Badan usaha yang bergerak dibidang General
+                                        Contractor, General Suplier, General Trade & Pertambangan.</span></li>
+                                <li><i class="bi bi-check-circle"></i> <span>Dikelola oleh para ahli dibidangnya merupakan
+                                        jenis usaha yang mengedepankan kualitas layanan terhadap kepuasan pelanggan.</span>
                                 </li>
-                            </ul>
-                            <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit
-                                repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
-
-                            {{-- <div class="watch-video d-flex align-items-center position-relative">
-                                <i class="bi bi-play-circle"></i>
-                                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch
-                                    Video</a>
-                            </div> --}}
                         </div>
                     </div>
 
+                </div>
+
+            </div>
+        </section>
+        <section id="alt-services" class="alt-services">
+            <div class="container" data-aos="fade-up">
+
+                <div class="row justify-content-around gy-4">
+                    <div class="col-lg-6 img-bg" style="background-image: url(assets/assets/img/project/Jasa-Rangka.jpg);"
+                        data-aos="zoom-in" data-aos-delay="100"></div>
+
+
+                    <div class="col-lg-5 d-flex flex-column justify-content-center">
+                        <h3>PT. Three Putera Banten Indonesia</h3>
+                        <p>VISI DAN MISI</p>
+
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                            {{--  <i class="bi bi-easel flex-shrink-0"></i>  --}}
+                            <div>
+                                <h4><a href="" class="stretched-link">VISI</a></h4>
+                                <p>Menjadi Perusahaan yang berkomitmen dalam pembangunan yang handal untuk menghasilkan
+                                    pekerjaan yang berkualitas dengan memberikan pelayanan yang maksimal serta menjaga
+                                    keselamatan kerja dan peduli terhadap pengembangan Sumber daya Manusia dan sangat peduli
+                                    dengan lingkungan.</p>
+                            </div>
+                        </div><!-- End Icon Box -->
+
+                        <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                            {{--  <i class="bi bi-patch-check flex-shrink-0"></i>  --}}
+                            <div>
+                                <h4><a href="" class="stretched-link">Misi</a></h4>
+                                <li>
+                                    <span>Mengoptimalkan sumeber daya manusia dengan azas profesionalisme dalam menjawab
+                                        tantangan.</span>
+                                </li>
+                                <li>
+                                    <span>Menjaga kualitas dan mutu pekerjaan dalam memberikan kepercayaan kepada
+                                        Coustomer.</span>
+                                </li>
+                                <li>
+                                    <span>Memerikan konsultasi kepada coustamer untuk memberikan rasa aman dan nyaman dalam
+                                        hasil pekerjaan.</span>
+                                </li>
+                                <li>
+                                    <span>Meningkatkan daya saing perusahaan dengan mengembangkan pelayanan terbaik kepada
+                                        Coustomer.</span>
+                                </li>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -106,7 +142,7 @@
                         <div class="stats-item d-flex align-items-center w-100 h-100">
                             <i class="bi bi-people color-pink flex-shrink-0"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
+                                <span data-purecounter-start="0" data-purecounter-end="30" data-purecounter-duration="1"
                                     class="purecounter"></span>
                                 <p>Hard Workers</p>
                             </div>
@@ -287,7 +323,8 @@
                         <div class="member-info text-center">
                             <h4>Haryadi</h4>
                             <span>Direktur Operasional</span>
-                            <p> Jika kamu tidak berjuang untuk mendapatkan apa yang kamu inginkan, maka jangan menangis untuk apa yang tidak kamu dapatkan</p>
+                            <p> Jika kamu tidak berjuang untuk mendapatkan apa yang kamu inginkan, maka jangan menangis
+                                untuk apa yang tidak kamu dapatkan</p>
                         </div>
                     </div><!-- End Team Member -->
 
@@ -350,139 +387,8 @@
         </section><!-- End Our Team Section -->
 
         <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials section-bg">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-header">
-                    <h2>Testimonials</h2>
-                    <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem
-                        uia reprehenderit sunt deleniti</p>
-                </div>
-
-                <div class="slides-2 swiper">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="assets/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
-                                        alt="">
-                                    <h3>Saul Goodman</h3>
-                                    <h4>Ceo &amp; Founder</h4>
-                                    <div class="stars">
-                                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i>
-                                    </div>
-                                    <p>
-                                        <i class="bi bi-quote quote-icon-left"></i>
-                                        Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                        rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                        risus at semper.
-                                        <i class="bi bi-quote quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="assets/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
-                                        alt="">
-                                    <h3>Sara Wilsson</h3>
-                                    <h4>Designer</h4>
-                                    <div class="stars">
-                                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i>
-                                    </div>
-                                    <p>
-                                        <i class="bi bi-quote quote-icon-left"></i>
-                                        Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                        cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                                        legam anim culpa.
-                                        <i class="bi bi-quote quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="assets/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img"
-                                        alt="">
-                                    <h3>Jena Karlis</h3>
-                                    <h4>Store Owner</h4>
-                                    <div class="stars">
-                                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i>
-                                    </div>
-                                    <p>
-                                        <i class="bi bi-quote quote-icon-left"></i>
-                                        Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
-                                        veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint
-                                        minim.
-                                        <i class="bi bi-quote quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="assets/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img"
-                                        alt="">
-                                    <h3>Matt Brandon</h3>
-                                    <h4>Freelancer</h4>
-                                    <div class="stars">
-                                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i>
-                                    </div>
-                                    <p>
-                                        <i class="bi bi-quote quote-icon-left"></i>
-                                        Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
-                                        fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem
-                                        dolore labore illum veniam.
-                                        <i class="bi bi-quote quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="assets/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img"
-                                        alt="">
-                                    <h3>John Larson</h3>
-                                    <h4>Entrepreneur</h4>
-                                    <div class="stars">
-                                        <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                            class="bi bi-star-fill"></i>
-                                    </div>
-                                    <p>
-                                        <i class="bi bi-quote quote-icon-left"></i>
-                                        Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                        veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                        culpa fore nisi cillum quid.
-                                        <i class="bi bi-quote quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section><!-- End Testimonials Section -->
+        {{--  @include('layouts.testi')  --}}
+        <!-- End Testimonials Section -->
 
         <section id="services-cards" class="services-cards">
             <div class="container" data-aos="fade-up">
