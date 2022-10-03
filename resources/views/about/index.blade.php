@@ -284,10 +284,8 @@
                         <div class="member-img">
                             <img src="assets/assets/img/team/team-1.png" class="img-fluid" alt="">
                             <div class="social">
-                                <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="member-info text-center">
@@ -301,10 +299,8 @@
                         <div class="member-img">
                             <img src="assets/assets/img/team/team-2.png" class="img-fluid" alt="">
                             <div class="social">
-                                <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="member-info text-center">
@@ -318,10 +314,8 @@
                         <div class="member-img">
                             <img src="assets/assets/img/team/team-4.png" class="img-fluid" alt="">
                             <div class="social">
-                                <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="member-info text-center">
@@ -337,10 +331,8 @@
                         <div class="member-img">
                             <img src="assets/assets/img/team/team-3.png" class="img-fluid" alt="">
                             <div class="social">
-                                <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="member-info text-center">
@@ -354,10 +346,8 @@
                         <div class="member-img">
                             <img src="assets/assets/img/team/team-5.png" class="img-fluid" alt="">
                             <div class="social">
-                                <a href="#"><i class="bi bi-twitter"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="member-info text-center">
@@ -444,7 +434,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <!-- End feature item-->
 
                 </div>
