@@ -60,7 +60,7 @@
                                 <strong>Phone:</strong> +62 813 8118 5922<br>
                                 <strong>Email:</strong> threeputerabantenindonesia@gmail.com<br>
                             </p>
-                            <div class="social-links d-flex mt-3">
+                            {{--  <div class="social-links d-flex mt-3">
                                 <a href="#" class="d-flex align-items-center justify-content-center"><i
                                         class="bi bi-twitter"></i></a>
                                 <a href="#" class="d-flex align-items-center justify-content-center"><i
@@ -69,7 +69,7 @@
                                         class="bi bi-instagram"></i></a>
                                 <a href="#" class="d-flex align-items-center justify-content-center"><i
                                         class="bi bi-linkedin"></i></a>
-                            </div>
+                            </div>  --}}
                         </div>
                     </div>
 

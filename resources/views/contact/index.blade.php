@@ -34,7 +34,7 @@
                         <div class="info-item d-flex flex-column justify-content-center align-items-center">
                             <i class="bi bi-envelope"></i>
                             <h3>Email Us</h3>
-                            <p>contact@example.com</p>
+                            <p>threeputerabantenindonesia@gmail.com</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -42,16 +42,15 @@
                         <div class="info-item  d-flex flex-column justify-content-center align-items-center">
                             <i class="bi bi-telephone"></i>
                             <h3>Call Us</h3>
-                            <p>+1 5589 55488 55</p>
+                            <p>+62 813 8118 5922</p>
                         </div>
                     </div><!-- End Info Item -->
 
                 </div>
                 <div class="row gy-4 mt-1">
-
                     <div class="col-lg-12 ">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.6995479999737!2d106.08094592853237!3d-6.035905346946695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e418dcacda4da81%3A0x5d4d8ad5a3ecca0!2sJl.%20Raya%20Cilegon%2C%20Serdang%2C%20Kec.%20Kramatwatu%2C%20Kabupaten%20Serang%2C%20Banten%2042616!5e0!3m2!1sid!2sid!4v1663918677680!5m2!1sid!2sid"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.90147029197453!2d106.35980276937896!3d-6.207734561504174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e420339948804c7%3A0xc5fd4c75d3a60a4b!2sQ9R5%2BXWM%2C%20Parigi%2C%20Kec.%20Cikande%2C%20Kabupaten%20Serang%2C%20Banten%2042186!5e0!3m2!1sid!2sid!4v1664807005410!5m2!1sid!2sid"
                             frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
                     </div><!-- End Google Maps -->
 
