@@ -57,8 +57,7 @@
 
                     <div class="col-lg-5 d-flex flex-column justify-content-center">
                         <h3>PT. Three Putera Banten Indonesia</h3>
-                        <p>VISI DAN MISI</p>
-
+                        <h2><strong>VISI DAN MISI</strong></h2>
                         <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
                             {{--  <i class="bi bi-easel flex-shrink-0"></i>  --}}
                             <div>
@@ -74,22 +73,27 @@
                             {{--  <i class="bi bi-patch-check flex-shrink-0"></i>  --}}
                             <div>
                                 <h4><a href="" class="stretched-link">Misi</a></h4>
-                                <li>
-                                    <span>Mengoptimalkan sumeber daya manusia dengan azas profesionalisme dalam menjawab
-                                        tantangan.</span>
-                                </li>
-                                <li>
-                                    <span>Menjaga kualitas dan mutu pekerjaan dalam memberikan kepercayaan kepada
-                                        Coustomer.</span>
-                                </li>
-                                <li>
-                                    <span>Memerikan konsultasi kepada coustamer untuk memberikan rasa aman dan nyaman dalam
-                                        hasil pekerjaan.</span>
-                                </li>
-                                <li>
-                                    <span>Meningkatkan daya saing perusahaan dengan mengembangkan pelayanan terbaik kepada
-                                        Coustomer.</span>
-                                </li>
+                                <ul>
+                                    <li>
+                                        <span>Mengoptimalkan sumeber daya manusia dengan azas profesionalisme dalam menjawab
+                                            tantangan.</span>
+                                    </li>
+                                    <li>
+                                        <span>Menjaga kualitas dan mutu pekerjaan dalam memberikan kepercayaan kepada
+                                            Coustomer.</span>
+                                    </li>
+                                    <li>
+                                        <span>Memerikan konsultasi kepada coustamer untuk memberikan rasa aman dan nyaman
+                                            dalam
+                                            hasil pekerjaan.</span>
+                                    </li>
+                                    <li>
+                                        <span>Meningkatkan daya saing perusahaan dengan mengembangkan pelayanan terbaik
+                                            kepada
+                                            Coustomer.</span>
+                                    </li>
+                                </ul>
+
                             </div>
                         </div>
                     </div>
