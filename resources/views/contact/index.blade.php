@@ -25,7 +25,7 @@
                     <div class="col-lg-6">
                         <div class="info-item  d-flex flex-column justify-content-center align-items-center">
                             <i class="bi bi-map"></i>
-                            <h3>Our Address</h3>
+                            <h3>Our  Address</h3>
                             <p>Jl. Raya Cilegon, Serdang, Kec. Kramatwatu, Kabupaten Serang, Banten</p>
                         </div>
                     </div><!-- End Info Item -->
